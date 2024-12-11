@@ -1,0 +1,28 @@
+.root {
+  border: 1px solid var(--color_border);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.content {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  border: 1px solid var(--color_border);
+  background-color: var(--color_border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.text {
+  padding: 5px;
+  background-color: white;
+}
+
+.text:nth-child(1),
+.text:nth-child(2) {
+  font-weight: bold;
+}
