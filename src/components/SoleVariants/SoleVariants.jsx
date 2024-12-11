@@ -45,7 +45,7 @@ export default function SoleVariants({ data }) {
               </p>
             ))}
           </div>
-          {professional.shoes.map((proff, i) => (
+          {casual.shoes.map((proff, i) => (
             <div key={i} className={classes.typeBox}>
               <p className={classes.name}>{proff.name}</p>
               <p className={classes.description}>{proff.description}</p>
