@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skechers/static/css/main.efd7311b.css",
+    "main.js": "/skechers/static/js/main.5021566f.js",
+    "index.html": "/skechers/index.html",
+    "main.efd7311b.css.map": "/skechers/static/css/main.efd7311b.css.map",
+    "main.5021566f.js.map": "/skechers/static/js/main.5021566f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd7311b.css",
+    "static/js/main.5021566f.js"
+  ]
+}
