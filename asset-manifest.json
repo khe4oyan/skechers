@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skechers/static/css/main.efd7311b.css",
-    "main.js": "/skechers/static/js/main.5021566f.js",
+    "main.js": "/skechers/static/js/main.e692db4c.js",
     "index.html": "/skechers/index.html",
     "main.efd7311b.css.map": "/skechers/static/css/main.efd7311b.css.map",
-    "main.5021566f.js.map": "/skechers/static/js/main.5021566f.js.map"
+    "main.e692db4c.js.map": "/skechers/static/js/main.e692db4c.js.map"
   },
   "entrypoints": [
     "static/css/main.efd7311b.css",
-    "static/js/main.5021566f.js"
+    "static/js/main.e692db4c.js"
   ]
 }
